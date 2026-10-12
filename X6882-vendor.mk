@@ -401,7 +401,6 @@ PRODUCT_PACKAGES += \
     VP9SecureVdecCA_510 \
     vendor.mediatek.hardware.videotelephony@1.0-impl \
     libAVCSecureVencCA_510 \
-    libTEECommon \
     libbwc \
     libgz_gp_client \
     libgz_uree \
@@ -911,6 +910,7 @@ PRODUCT_PACKAGES += \
     libMtkSpeechEnh \
     libOpenCL \
     libSQLiteModule_VER_ALL \
+    libTEECommon \
     libTranExtImgThread \
     libTranVideoFilter \
     libTranVideoLuminousEffects \
@@ -1023,6 +1023,7 @@ PRODUCT_PACKAGES += \
     libimsg_log \
     libjpeg-alpha-oal_vendor \
     libjpeg-alpha_vendor \
+    libkaraoke \
     libkmsetkey \
     libksensor \
     liblibarm_mali_config_sysprops \
