@@ -1116,6 +1116,7 @@ PRODUCT_PACKAGES += \
     libvow_ap_test_nn \
     libvpu \
     libvpu5 \
+    libwifi-hal-mtk \
     libwpfa \
     libwvhidl \
     libwvdrmengine \
