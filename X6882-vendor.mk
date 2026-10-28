@@ -1471,6 +1471,7 @@ PRODUCT_PACKAGES += \
     libfeature_lmv \
     libfeature_rss \
     libfeatureiodrv_mem \
+    libgpudataproducer \
     libimageio \
     libimageio_plat_drv \
     libimageio_plat_pipe \
@@ -2143,6 +2144,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libfeature_lmv_so \
     vendor_lib64_libfeature_rss_so \
     vendor_lib64_libfeatureiodrv_mem_so \
+    vendor_lib64_libgpudataproducer_so \
     vendor_lib64_libimageio_so \
     vendor_lib64_libimageio_plat_drv_so \
     vendor_lib64_libimageio_plat_pipe_so \
